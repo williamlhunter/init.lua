@@ -1,5 +1,6 @@
 require('options')
-require('plugins')
 require('keymaps')
+require('plugins')
+require('telescope')
 require('treesitter')
 require('lsp')
